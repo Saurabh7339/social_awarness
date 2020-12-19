@@ -1,3 +1,4 @@
 {
-    "MongoUri":"mongodb+srv://dante:123@cluster0.e4akl.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "MongoUri":"mongodb+srv://dante:123@cluster0.e4akl.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken "
 }
